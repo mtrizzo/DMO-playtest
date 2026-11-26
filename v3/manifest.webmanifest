@@ -1,0 +1,15 @@
+{
+    "name": "Cozy Village (play-test)",
+    "short_name": "Cozy Village",
+    "description": "Play-test build of Cozy Village.",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "fullscreen",
+    "orientation": "landscape",
+    "background_color": "#FFF6E8",
+    "theme_color": "#FFF6E8",
+    "icons": [
+        { "src": "TemplateData/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+        { "src": "TemplateData/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    ]
+}
